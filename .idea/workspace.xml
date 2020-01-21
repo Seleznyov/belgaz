@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="976a82bf-7427-4d8f-acc7-2dce20fccbed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests/java_pft" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -221,10 +213,10 @@
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.821@0.0.1536.821" timestamp="1579546512799" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579450806019">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579597244816">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579084497028" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579597244816" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1579450806019" />
     <state width="1152" height="237" key="GridCell.Tab.0.bottom" timestamp="1579546894572">
       <screen x="0" y="0" width="1536" height="821" />
@@ -290,10 +282,10 @@
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1579546479375" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579546236946">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579597235157">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579512257291" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579597235157" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1579546236946" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579546556864">
       <screen x="0" y="0" width="1536" height="821" />
