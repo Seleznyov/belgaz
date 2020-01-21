@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.stqa.selenium:webdriver-testng-archetype:3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-testng-archetype/3.0/adcd16a79d290e04e4b75927a59d19eb3799ecb4/webdriver-testng-archetype-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.stqa.selenium/webdriver-testng-archetype/3.0/e070bccd0e2f411aa841aabd671dee067b275bd9/webdriver-testng-archetype-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

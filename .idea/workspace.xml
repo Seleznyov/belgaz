@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="976a82bf-7427-4d8f-acc7-2dce20fccbed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WIxSvt3zP20vQV9cyaCaoYMu4R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="belgaz.qa.appmanager" />
+      <recent name="belgaz.qa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SearchClient">
+    <configuration name="CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIndicators.test2CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
+      <option name="METHOD_NAME" value="test2CreateIndicators" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletionIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.DeletionIndicators" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletionIndicators.test3DeleteIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.DeletionIndicators" />
+      <option name="METHOD_NAME" value="test3DeleteIndicators" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchClient" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.SearchClient" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchClient" />
+        <item itemvalue="TestNG.CreateIndicators" />
+        <item itemvalue="TestNG.DeletionIndicators" />
+        <item itemvalue="TestNG.CreateIndicators.test2CreateIndicators" />
+        <item itemvalue="TestNG.DeletionIndicators.test3DeleteIndicators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Stanislav.Seleznev\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="976a82bf-7427-4d8f-acc7-2dce20fccbed" name="Default Changelist" comment="" />
+      <created>1578850914647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578850914647</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1579546513815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579546513815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1579546568987">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.821@0.0.1536.821" timestamp="1579546568987" />
+    <state x="219" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579158170119">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="219" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579158170119" />
+    <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1579522623227">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579522623227" />
+    <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.821@0.0.1536.821" timestamp="1579463317438" />
+    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1579546512799">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.821@0.0.1536.821" timestamp="1579546512799" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579450806019">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579084497028" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1579450806019" />
+    <state width="1152" height="237" key="GridCell.Tab.0.bottom" timestamp="1579546894572">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="436" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866575" />
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
+    <state width="1152" height="237" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
+    <state width="1152" height="237" key="GridCell.Tab.0.center" timestamp="1579546894572">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="436" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
+    <state width="1152" height="237" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
+    <state width="1152" height="237" key="GridCell.Tab.0.left" timestamp="1579546894572">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="436" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
+    <state width="1152" height="237" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
+    <state width="1152" height="237" key="GridCell.Tab.0.right" timestamp="1579546894572">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="436" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
+    <state width="1152" height="237" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1579355422196">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1579355422196">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1579355422196">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1579355422196">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
+    <state x="478" y="120" width="580" height="576" key="RefactorJ.ExtractClass" timestamp="1579463368360">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="478" y="120" width="580" height="576" key="RefactorJ.ExtractClass/0.0.1536.821@0.0.1536.821" timestamp="1579463368360" />
+    <state x="772" y="33" width="438" height="724" key="RefactorJ.IntroduceParameterObject" timestamp="1579431391819">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="772" y="33" width="438" height="724" key="RefactorJ.IntroduceParameterObject/0.0.1536.821@0.0.1536.821" timestamp="1579431391819" />
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt" timestamp="1579429136766">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.821@0.0.1536.821" timestamp="1579429136766" />
+    <state x="623" y="134" key="RollbackChangesDialog" timestamp="1579546484593">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="623" y="134" key="RollbackChangesDialog/0.0.1536.821@0.0.1536.821" timestamp="1579546484593" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1579546479375">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1579546479375" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579546236946">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579512257291" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1579546236946" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579546556864">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.821@0.0.1536.821" timestamp="1579546556864" />
+    <state x="909" y="147" width="538" height="495" key="extract.method.dialog" timestamp="1579522590307">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="909" y="147" width="538" height="495" key="extract.method.dialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579522590307" />
+    <state x="730" y="85" width="538" height="495" key="extract.method.dialog/0.0.1536.821@0.0.1536.821" timestamp="1579450925537" />
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1578901963194">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1578901963194" />
+  </component>
+</project>
