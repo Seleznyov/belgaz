@@ -1,10 +1,10 @@
-package belgaz.qa.model;
+package belgaz.qa.model.Indicator1;
 
-public class Signal1Indicotor1Data {
+public class Signal4Indicotor1Data {
     private final String statusEGR;
     private final String note;
 
-    public Signal1Indicotor1Data(String statusEGR, String note) {
+    public Signal4Indicotor1Data(String statusEGR, String note) {
         this.statusEGR = statusEGR;
         this.note = note;
     }

@@ -2,7 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="976a82bf-7427-4d8f-acc7-2dce20fccbed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/IndicatorHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/NavigationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SessionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal1Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal2Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal3Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal4Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal5Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal6Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal7Indicotor2Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicatorID15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/DeletionIndicators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/SearchClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal1Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal2Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal3Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal4Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal5Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal6Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal7Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/ApplicationManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/SignalHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/SignalHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal1Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal2Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal3Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal4Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal5Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal6Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal7Indicotor1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/CreateIndicators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/CreateIndicators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/DeletionIndicators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/DeletionIndicators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/SearchClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/SearchClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/ttttt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SignalHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SignalHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal1Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal1Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal2Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal2Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal3Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal3Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal4Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal4Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal5Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal5Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal6Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal6Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal7Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal7Indicotor1Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/DeletionIndicators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/DeletionIndicators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/SearchClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/SearchClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,56 +107,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests/java_pft" />
+    <property name="extract.method.default.visibility" value="packageLocal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datapicer" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="belgaz.qa.model.Indicator15" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="belgaz.qa.appmanager" />
       <recent name="belgaz.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SearchClient">
-    <configuration name="CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="belgaz.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="belgaz.qa" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateIndicators.test2CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="belgaz.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="belgaz.qa" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
-      <option name="METHOD_NAME" value="test2CreateIndicators" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeletionIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CreateIndicatorID15">
+    <configuration name="CreateIndicatorID15" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="belgaz.test" />
       <extension name="coverage">
         <pattern>
@@ -105,7 +133,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.DeletionIndicators" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicatorID15" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,18 +141,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeletionIndicators.test3DeleteIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateIndicatorID15.testCreateIndicatorID15" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="belgaz.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="belgaz.qa.appmanager.*" />
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="belgaz.qa" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.DeletionIndicators" />
-      <option name="METHOD_NAME" value="test3DeleteIndicators" />
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicatorID15" />
+      <option name="METHOD_NAME" value="testCreateIndicatorID15" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -148,13 +193,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchClient.test1SearchClient" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.SearchClient" />
+      <option name="METHOD_NAME" value="test1SearchClient" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchClient" />
+        <item itemvalue="TestNG.CreateIndicatorID15" />
+        <item itemvalue="TestNG.CreateIndicatorID15.testCreateIndicatorID15" />
         <item itemvalue="TestNG.CreateIndicators" />
-        <item itemvalue="TestNG.DeletionIndicators" />
-        <item itemvalue="TestNG.CreateIndicators.test2CreateIndicators" />
-        <item itemvalue="TestNG.DeletionIndicators.test3DeleteIndicators" />
+        <item itemvalue="TestNG.SearchClient" />
+        <item itemvalue="TestNG.SearchClient.test1SearchClient" />
       </list>
     </recent_temporary>
   </component>
@@ -200,102 +263,114 @@
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="361" y="70" key="#Notifications/0.0.1536.821@0.0.1536.821" timestamp="1579546568987" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1579693996443">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579693996443" />
     <state x="219" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579158170119">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="219" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579158170119" />
-    <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1579522623227">
+    <state x="818" y="85" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1580583072020">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579522623227" />
-    <state x="628" y="127" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.821@0.0.1536.821" timestamp="1579463317438" />
+    <state x="818" y="85" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.821@0.0.1536.821" timestamp="1580583072020" />
     <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1579546512799">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.821@0.0.1536.821" timestamp="1579546512799" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579597244816">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580884104098">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579597244816" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1579450806019" />
-    <state width="1152" height="237" key="GridCell.Tab.0.bottom" timestamp="1579546894572">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580884104098" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1580037541295" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1582276796166">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866575" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
-    <state width="1152" height="237" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
-    <state width="1152" height="237" key="GridCell.Tab.0.center" timestamp="1579546894572">
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
+    <state width="1195" height="84" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1582276796166">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
-    <state width="1152" height="237" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
-    <state width="1152" height="237" key="GridCell.Tab.0.left" timestamp="1579546894572">
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
+    <state width="1195" height="84" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1582276796166">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
-    <state width="1152" height="237" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
-    <state width="1152" height="237" key="GridCell.Tab.0.right" timestamp="1579546894572">
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
+    <state width="1195" height="84" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1579895893161" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1582276796166">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579527778331" />
-    <state width="1152" height="237" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1579546894572" />
-    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1579355422196">
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
+    <state width="1195" height="84" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1580890188961">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580890188961" />
     <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
-    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1579355422196">
+    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1580890188961">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580890188961" />
     <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
-    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1579355422196">
+    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1580890188961">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580890188961" />
     <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
-    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1579355422196">
+    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1580890188961">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579249621337" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580890188961" />
     <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.821@0.0.1536.821" timestamp="1579355422196" />
     <state x="478" y="120" width="580" height="576" key="RefactorJ.ExtractClass" timestamp="1579463368360">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="478" y="120" width="580" height="576" key="RefactorJ.ExtractClass/0.0.1536.821@0.0.1536.821" timestamp="1579463368360" />
-    <state x="772" y="33" width="438" height="724" key="RefactorJ.IntroduceParameterObject" timestamp="1579431391819">
+    <state x="772" y="33" width="438" height="712" key="RefactorJ.IntroduceParameterObject" timestamp="1580573262353">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="772" y="33" width="438" height="724" key="RefactorJ.IntroduceParameterObject/0.0.1536.821@0.0.1536.821" timestamp="1579431391819" />
-    <state x="584" y="346" key="ReplaceDuplicatesPrompt" timestamp="1579429136766">
+    <state x="772" y="33" width="438" height="712" key="RefactorJ.IntroduceParameterObject/0.0.1536.821@0.0.1536.821" timestamp="1580573262353" />
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt" timestamp="1580582884100">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.821@0.0.1536.821" timestamp="1579429136766" />
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.821@0.0.1536.821" timestamp="1580582884100" />
     <state x="623" y="134" key="RollbackChangesDialog" timestamp="1579546484593">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="623" y="134" key="RollbackChangesDialog/0.0.1536.821@0.0.1536.821" timestamp="1579546484593" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1579546479375">
+    <state x="277" y="0" key="SettingsEditor" timestamp="1580047868332">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1579546479375" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579597235157">
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1580047868332" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582276811151">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579597235157" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1579546236946" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276811151" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1580585880028" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579546556864">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.821@0.0.1536.821" timestamp="1579546556864" />
-    <state x="909" y="147" width="538" height="495" key="extract.method.dialog" timestamp="1579522590307">
+    <state x="998" y="214" width="538" height="495" key="extract.method.dialog" timestamp="1580582815252">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="909" y="147" width="538" height="495" key="extract.method.dialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1579522590307" />
-    <state x="730" y="85" width="538" height="495" key="extract.method.dialog/0.0.1536.821@0.0.1536.821" timestamp="1579450925537" />
+    <state x="998" y="214" width="538" height="495" key="extract.method.dialog/0.0.1536.821@0.0.1536.821" timestamp="1580582815252" />
+    <state x="262" y="38" key="new project wizard" timestamp="1580037543426">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="262" y="38" key="new project wizard/0.0.1536.821@0.0.1536.821" timestamp="1580037543426" />
     <state x="431" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1578901963194">
       <screen x="0" y="0" width="1536" height="821" />
     </state>

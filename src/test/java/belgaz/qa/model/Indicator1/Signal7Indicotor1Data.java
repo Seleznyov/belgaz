@@ -1,10 +1,10 @@
-package belgaz.qa.model;
+package belgaz.qa.model.Indicator1;
 
-public class Signal6Indicotor1Data {
+public class Signal7Indicotor1Data {
     private final String prohibition;
     private final String note;
 
-    public Signal6Indicotor1Data(String prohibition, String note) {
+    public Signal7Indicotor1Data(String prohibition, String note) {
         this.prohibition = prohibition;
         this.note = note;
     }
