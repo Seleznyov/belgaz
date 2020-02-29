@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="976a82bf-7427-4d8f-acc7-2dce20fccbed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/IndicatorHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/NavigationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SessionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal1Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal2Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal3Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal4Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal5Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal6Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator2/Signal7Indicotor2Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicatorID15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -24,43 +10,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ru_stqa_selenium_webdriver_testng_archetype_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ru_stqa_selenium_webdriver_testng_archetype_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/belgaz.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/belgaz.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/belgaz.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/belgaz.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/DeletionIndicators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/SearchClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal1Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal2Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal3Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal4Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal5Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal6Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/Signal7Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/SignalHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/appmanager/SignalHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal1Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal2Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal3Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal4Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal5Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal6Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/model/Signal7Indicotor1Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/CreateIndicators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/CreateIndicators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/DeletionIndicators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/DeletionIndicators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/SearchClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/SearchClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/tests/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/belgaz/qa/ttttt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SignalHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/appmanager/SignalHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal1Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal1Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal2Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal2Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal3Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal3Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal4Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal4Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal5Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal5Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal6Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal6Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Signal7Indicotor1Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/model/Indicator1/Signal7Indicotor1Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/CreateIndicators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/DeletionIndicators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/DeletionIndicators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/SearchClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/SearchClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/belgaz/qa/tests/TestBase.java" afterDir="false" />
     </list>
@@ -77,9 +34,17 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="belgaz" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -107,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="packageLocal" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../datapicer" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -123,41 +89,25 @@
       <recent name="belgaz.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CreateIndicatorID15">
-    <configuration name="CreateIndicatorID15" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="belgaz.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="belgaz.qa.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicatorID15" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateIndicatorID15.testCreateIndicatorID15" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="belgaz.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="belgaz.qa.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicatorID15" />
-      <option name="METHOD_NAME" value="testCreateIndicatorID15" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="TestNG.CreateIndicators">
+    <configuration name="belgaz [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="belgaz.test" />
@@ -170,6 +120,24 @@
       <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
       <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIndicators.test2CreateIndicators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="belgaz.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belgaz.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="belgaz.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="belgaz.qa.tests.CreateIndicators" />
+      <option name="METHOD_NAME" value="test2CreateIndicators" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -213,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CreateIndicatorID15" />
-        <item itemvalue="TestNG.CreateIndicatorID15.testCreateIndicatorID15" />
         <item itemvalue="TestNG.CreateIndicators" />
-        <item itemvalue="TestNG.SearchClient" />
         <item itemvalue="TestNG.SearchClient.test1SearchClient" />
+        <item itemvalue="TestNG.CreateIndicators.test2CreateIndicators" />
+        <item itemvalue="TestNG.SearchClient" />
+        <item itemvalue="Gradle.belgaz [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -285,30 +253,30 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1580884104098" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1580037541295" />
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1582276796166">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1583002059053">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866575" />
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
-    <state width="1195" height="84" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
-    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1582276796166">
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582278230434" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1583002059053" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1583002059053">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
-    <state width="1195" height="84" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
-    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1582276796166">
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582278230434" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1583002059053" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1583002059053">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
-    <state width="1195" height="84" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1579895893161" />
-    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1582276796166">
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582278230434" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1583002059053" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1583002059053">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state width="2005" height="436" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@-2560.-348.2048.1112" timestamp="1579250866574" />
-    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276796166" />
-    <state width="1195" height="84" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1579895893162" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582278230434" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1583002059053" />
     <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1580890188961">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
@@ -353,11 +321,11 @@
       <screen x="0" y="0" width="1536" height="821" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.821@0.0.1536.821" timestamp="1580047868332" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582276811151">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583000184113">
       <screen x="0" y="0" width="1536" height="821" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582276811151" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1580585880028" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821/-2560.-348.2048.1112@0.0.1536.821" timestamp="1582278104128" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1583000184113" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579546556864">
       <screen x="0" y="0" width="1536" height="821" />
     </state>

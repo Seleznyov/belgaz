@@ -69,8 +69,7 @@ public class SearchClient extends TestBase {
             application.clickOnSearch();
             application.inputSearchName(st);
             application.clickOnEnter();
-            application.openFoundClient("gs_name1116450517");
-
+            application.openFoundClient(st);
         }
     }
 }

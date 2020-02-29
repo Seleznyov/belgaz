@@ -5,21 +5,36 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.BrowserType;
+
 import java.util.concurrent.TimeUnit;
 
 
 public class ApplicationManager {
     public WebDriver driver;
-    public  NavigationHelper navigationHelper;
-    public  SessionHelper sessionHelper;
-    public  IndicatorHelper indicatorHelper;
-    public  SignalHelper signalHelper;
-
+    public NavigationHelper navigationHelper;
+    public SessionHelper sessionHelper;
+    public IndicatorHelper indicatorHelper;
+    public SignalHelper signalHelper;
     public String baseUrl;
+    public String browser;
+
+    public ApplicationManager(String browser) {
+        this.browser = browser;
+    }
 
     public void init() {
-        System.setProperty("webdriver.chrome.driver", "D:\\Qa\\test\\tests\\web\\chromedriver_win32\\chromedriver.exe");
-        driver = new ChromeDriver();
+        if (browser.equals(BrowserType.FIREFOX)) {
+            driver = new FirefoxDriver();
+        } else if (browser.equals(BrowserType.CHROME)) {
+            driver = new ChromeDriver();
+        } else if (browser.equals(BrowserType.IE)) {
+            driver = new InternetExplorerDriver();
+        }
+//        System.setProperty("webdriver.chrome.driver", "D:\\Qa\\test\\tests\\web\\chromedriver_win32\\chromedriver.exe");
+//        driver = new ChromeDriver();
         driver.manage().window().maximize();
 
         baseUrl = "https://www.katalon.com/";
@@ -31,10 +46,10 @@ public class ApplicationManager {
         driver.manage().timeouts().setScriptTimeout(6, TimeUnit.SECONDS);
 
 
-        signalHelper= new SignalHelper(driver);
+        signalHelper = new SignalHelper(driver);
         indicatorHelper = new IndicatorHelper(driver);
-        sessionHelper= new SessionHelper(driver);
-        navigationHelper=new NavigationHelper(driver);
+        sessionHelper = new SessionHelper(driver);
+        navigationHelper = new NavigationHelper(driver);
 
         sessionHelper.login("Stas", "admin");
     }
@@ -43,6 +58,7 @@ public class ApplicationManager {
     public void openFoundClient(String clientName) {
         driver.findElement(By.xpath("//a[contains(text(),'" + clientName + "')]")).click();
     }
+
     public void clickOnEnter() {
         driver.findElement(By.xpath("//form/div/div[2]/button")).click();
     }
@@ -55,13 +71,14 @@ public class ApplicationManager {
         driver.findElement(By.xpath("//input[@class='ng-pristine ng-valid ng-touched']")).click();
 
     }
+
     public void openModalWindow() {
         boolean staleElement = true;
-        while(staleElement){
-            try{
+        while (staleElement) {
+            try {
                 driver.findElement(By.xpath("//button[3]/span[@class='mat-button-wrapper' and 1]")).click();
                 staleElement = false;
-            } catch(StaleElementReferenceException e){
+            } catch (StaleElementReferenceException e) {
                 staleElement = true;
             }
         }
@@ -72,11 +89,14 @@ public class ApplicationManager {
     }
 
 
-    public void stop() { driver.quit();}
+    public void stop() {
+        driver.quit();
+    }
 
     public SignalHelper getSignalHelper() {
         return signalHelper;
     }
+
     public IndicatorHelper getIndicatorHelper() {
         return indicatorHelper;
     }
