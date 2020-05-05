@@ -12,7 +12,6 @@ public class NavigationHelper extends HelperBase {
 
     public void openClientsPage() {
        // click(By.xpath("//a[@href='/clients']"));
-
         boolean staleElement = true;
         while(staleElement){
             try{

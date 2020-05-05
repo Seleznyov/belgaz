@@ -1,14 +1,13 @@
 package belgaz.qa.appmanager;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.StaleElementReferenceException;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.BrowserType;
 
+import java.time.LocalDate;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 
@@ -51,7 +50,7 @@ public class ApplicationManager {
         sessionHelper = new SessionHelper(driver);
         navigationHelper = new NavigationHelper(driver);
 
-        sessionHelper.login("Stas", "admin");
+        sessionHelper.login("Stas", "Stas");
     }
 
 
@@ -100,4 +99,5 @@ public class ApplicationManager {
     public IndicatorHelper getIndicatorHelper() {
         return indicatorHelper;
     }
+
 }

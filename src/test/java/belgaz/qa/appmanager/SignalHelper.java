@@ -3,9 +3,14 @@ package belgaz.qa.appmanager;
 import belgaz.qa.model.Indicator1.*;
 import belgaz.qa.model.Indicator15.Signal1Indicotor15Data;
 import belgaz.qa.model.Indicator2.*;
+import belgaz.qa.model.Indicator4.Signal1Indicotor4Data;
 import org.openqa.selenium.By;
+import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+
+import java.time.LocalDate;
+import java.util.List;
 
 public class SignalHelper extends HelperBase  {
 
@@ -92,6 +97,12 @@ public class SignalHelper extends HelperBase  {
         type(By.xpath("(//input[@type='text'])[14]"), signal1Indicotor2Data.getNote());
     }
     //--------------------------------------------------------------------------------------------------------
+    public void fillFromSignal1Indicotor4(Signal1Indicotor4Data signal1Indicotor4Data) {
+        type(By.xpath("(//input[@type='text'])[10]"), signal1Indicotor4Data.getDataFIO());
+        type(By.xpath("(//input[@type='text'])[12]"), signal1Indicotor4Data.getNote());
+
+    }
+    //--------------------------------------------------------------------------------------------------------
     public void fillFromSignal1Indicotor15(Signal1Indicotor15Data signal1Indicotor15Data) {
        type(By.xpath("(//input[@type='text'])[10]"), signal1Indicotor15Data.getNote());}
     //--------------------------------------------------------------------------------------------------------
@@ -108,25 +119,16 @@ public class SignalHelper extends HelperBase  {
     public void chosenSignal2Indicotor1() {
         click(By.xpath("//div[@class='cdk-overlay-container']//li[2]"));
     }
-    public void chosenSignal1Indicotor1() {
-        click(By.xpath("//div[@class='cdk-overlay-container']//li[1]"));
-    }
+    public void chosenSignal1Indicotor1() {click(By.xpath("//div[@class='cdk-overlay-container']//li[1]")); }
 
 
-    public WebElement chosenSignal7() {
-        return driver.findElement(By.xpath("//div[@class='cdk-overlay-container']//li[7]"));
-    }
-    public WebElement chosenSignal6() {
-        return driver.findElement(By.xpath("//div[@class='cdk-overlay-container']//li[6]"));
-    }
+    public WebElement chosenSignal7() { return driver.findElement(By.xpath("//div[@class='cdk-overlay-container']//li[7]")); }
+    public WebElement chosenSignal6() { return driver.findElement(By.xpath("//div[@class='cdk-overlay-container']//li[6]")); }
 
     //--------------------------------------------------------------------------------------------------------
-    public WebElement chosenSignal7Indicotor2() {
-        return driver.findElement(By.xpath("//*[7]/*[@class='select-option-item' and 1]"));
-    }
-    public WebElement chosenSignal6Indicotor2() {
-        return driver.findElement(By.xpath("//*[6]/*[@class='select-option-item' and 1]"));
-    }
+    public WebElement chosenSignal7Indicotor2() { return driver.findElement(By.xpath("//*[7]/*[@class='select-option-item' and 1]")); }
+    public WebElement chosenSignal6Indicotor2() { return driver.findElement(By.xpath("//*[6]/*[@class='select-option-item' and 1]")); }
+
     public  void chosenSignal5Indicotor2() {
         click(By.xpath("//*[5]/*[@class='select-option-item' and 1]"));
     }
@@ -141,18 +143,32 @@ public class SignalHelper extends HelperBase  {
         click(By.xpath("//*[1]/*[@class='select-option-item' and 1]"));
     }
     //--------------------------------------------------------------------------------------------------------
+    public void chosenSignal1Indicotor4() {click(By.xpath("//span[@class='select-option-item']")); }
+    //--------------------------------------------------------------------------------------------------------
+
     public  void chosenSignal1Indicotor15() {
         click(By.xpath("//li[1]/span[@class='select-option-item' and 1]"));
     }
     //--------------------------------------------------------------------------------------------------------
     public void clickOnSearchSignal() {
-        click(By.xpath("//*[@title='undefined']"));
+                click(By.xpath("//input[@placeholder='Выбрать сигнал']"));
         //div/div[1]/form[1]/div[1]/div[1]/app-select[1]/div[1]/input[1]
+        //*[@title='undefined']"
     }
+
     public void addSignal() {
         click(By.xpath("//*[text()=' Добавить']"));
     }
     public void clickAddSignal() {
         click(By.xpath("//*[text()=' Добавить сигнал']"));
+    }
+
+    public void LocalDate() {
+        int day= LocalDate.now().getDayOfMonth();
+        List<WebElement> dates= driver.findElements(By.xpath("//div[@class='cdk-overlay-container']//tr//td"));
+        for (WebElement selected_dates: dates) {
+            { if (selected_dates.getText().equals(String.valueOf(day)))
+                selected_dates.click(); }
+        }
     }
 }
